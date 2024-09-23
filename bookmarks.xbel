@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :11: for Floccus bookmark sync browser extension -->
+<!--- highestId :12: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://d-9067eb0343.awsapps.com/start/#/?tab=accounts" id="2">
   <title>AWS access portal</title>
@@ -30,10 +30,13 @@
 <bookmark href="https://portal.cloud.hashicorp.com/access/invites?org_id=835a720e-6f15-4108-9b26-e1f4c36753b8" id="1">
   <title>HashiCorp pending invites - Access control (IAM) | HashiCorp Cloud Platform</title>
 </bookmark>
-<bookmark href="https://docs.google.com/spreadsheets/d/1x0rEwZfGlzY5EGKfYIC6lqA5rjf8XDqYYO559PLbAL4/edit?gid=0#gid=0" id="10">
-  <title>Comparison sheet: The best SMTP and Email API services - Google Sheets</title>
-</bookmark>
+<folder id="12">
+  <title>shared</title>
+</folder>
 <bookmark href="https://github.com/nonfx/stance/pulls" id="11">
   <title>Pull requests · nonfx/stance</title>
+</bookmark>
+<bookmark href="https://docs.google.com/spreadsheets/d/1x0rEwZfGlzY5EGKfYIC6lqA5rjf8XDqYYO559PLbAL4/edit?gid=0#gid=0" id="10">
+  <title>Comparison sheet: The best SMTP and Email API services - Google Sheets</title>
 </bookmark>
 </xbel>
