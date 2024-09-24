@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :12: for Floccus bookmark sync browser extension -->
+<!--- highestId :13: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://d-9067eb0343.awsapps.com/start/#/?tab=accounts" id="2">
   <title>AWS access portal</title>
@@ -39,4 +39,7 @@
 <bookmark href="https://docs.google.com/spreadsheets/d/1x0rEwZfGlzY5EGKfYIC6lqA5rjf8XDqYYO559PLbAL4/edit?gid=0#gid=0" id="10">
   <title>Comparison sheet: The best SMTP and Email API services - Google Sheets</title>
 </bookmark>
+<folder id="13">
+  <title>test</title>
+</folder>
 </xbel>
