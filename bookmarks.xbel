@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :13: for Floccus bookmark sync browser extension -->
+<!--- highestId :23: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://d-9067eb0343.awsapps.com/start/#/?tab=accounts" id="2">
   <title>AWS access portal</title>
@@ -41,5 +41,35 @@
 </bookmark>
 <folder id="13">
   <title>test</title>
+  <bookmark href="https://d-9067eb0343.awsapps.com/start/#/?tab=accounts" id="14">
+    <title>AWS access portal</title>
+  </bookmark>
+  <bookmark href="https://d-9067eb0343.awsapps.com/start/#/devices" id="15">
+    <title>AWS access portal</title>
+  </bookmark>
+  <bookmark href="https://github.com/ripienaar/free-for-dev" id="16">
+    <title>ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev</title>
+  </bookmark>
+  <bookmark href="https://github.com/oven-sh/awesome-bun" id="17">
+    <title>oven-sh/awesome-bun: ⚡️ A curated list of awesome things related to Bun</title>
+  </bookmark>
+  <bookmark href="https://dash.cloudflare.com/" id="18">
+    <title>Cloudflare | Web Performance &amp; Security</title>
+  </bookmark>
+  <bookmark href="https://remote-infosystem.greythr.com/uas/portal/auth/login?login_challenge=7168bff44fd54746991e00d1b15d0a96" id="19">
+    <title>Login</title>
+  </bookmark>
+  <bookmark href="https://downloads.cisecurity.org/#/" id="20">
+    <title>CIS Downloads</title>
+  </bookmark>
+  <bookmark href="https://github.com/nonfx/stance/pull/232" id="21">
+    <title>NFX-301 Remove API to get rules by ankitpawarcldcvr · Pull Request #232 · nonfx/stance</title>
+  </bookmark>
+  <bookmark href="https://portal.cloud.hashicorp.com/access/invites?org_id=835a720e-6f15-4108-9b26-e1f4c36753b8" id="22">
+    <title>HashiCorp pending invites - Access control (IAM) | HashiCorp Cloud Platform</title>
+  </bookmark>
+  <bookmark href="https://docs.google.com/spreadsheets/d/1x0rEwZfGlzY5EGKfYIC6lqA5rjf8XDqYYO559PLbAL4/edit?gid=0#gid=0" id="23">
+    <title>Comparison sheet: The best SMTP and Email API services - Google Sheets</title>
+  </bookmark>
 </folder>
 </xbel>
